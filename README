@@ -138,7 +138,7 @@ without arguments will launch it in the development environment.
 To start the console, run <tt>rails console</tt> from the application
 directory.
 
-Options:
+Options:-
 
 * Passing the <tt>-s, --sandbox</tt> argument will rollback any modifications
   made to the database.
@@ -152,7 +152,7 @@ More information about irb can be found at:
 link:http://www.rubycentral.com/pickaxe/irb.html
 
 
-== dbconsole
+== Dbconsole
 
 You can go to the command line of your database directly through <tt>rails
 dbconsole</tt>. You would be connected to the database with the credentials
